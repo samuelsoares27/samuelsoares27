@@ -12,4 +12,4 @@ I know many technologies, such as C# .net, Xamarin, Javascript frameworks, php, 
 
 ###
 
-[![Samuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=samuelsoares27)](https://github.com/samuelsoares27/github-readme-stats)
+[![Samuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=samuelsoares27)](https://github.com/anuraghazra/github-readme-stats)
