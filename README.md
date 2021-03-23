@@ -6,7 +6,10 @@
 
 ### About me
 
-<h3 align="center">I'm Developer and Computer scientist from Belo Horizonte - Brazil</h3>
+I'm Developer and Computer scientist from Belo Horizonte - Brazil
 
+I know many technologies, such as C# .net, Xamarin, Javascript frameworks, php, Git and more.
 
-- [LinkedIn](https://www.linkedin.com/in/samuel-soares-guimarães-81077b173/)  - I know many technologies, such as C# .net, Xamarin, Javascript frameworks, php, Git and more.
+###
+
+[![Samuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=samuelsoares27)](https://github.com/samuelsoares27/github-readme-stats)
