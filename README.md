@@ -5,7 +5,8 @@
 
 
 ### About me
-From Brazil - Minas Gerais
-I'm a { backend, frontend and mobile} developer and Computer scientist. 
+
+<h3 align="center">I'm Developer and Computer scientist from Belo Horizonte - Brazil</h3>
+
 
 - [LinkedIn](https://www.linkedin.com/in/samuel-soares-guimarães-81077b173/)  - I know many technologies, such as C# .net, Xamarin, Javascript frameworks, php, Git and more.
