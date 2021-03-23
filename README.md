@@ -6,12 +6,12 @@
 
 ### About me
 
-<li>
+<li><g-emoji class="g-emoji" alias="computer" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bb.png">💻</g-emoji>
 I'm Developer and Computer scientist from Belo Horizonte - Brazil
 </li>
 
-<li>
-I know many technologies, such as .net Core, C#, Xamarin, Javascript, Typescript, Angular, VueJs, Bootstrap, Git and more.
+<li><g-emoji class="g-emoji" alias="speech_balloon" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ac.png">💬</g-emoji>
+Ask me about many technologies, such as .net Core, C#, Xamarin, Javascript, Typescript, Angular, VueJs, Bootstrap, Git and more.
 </li>
 
 <li>
