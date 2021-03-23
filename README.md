@@ -19,7 +19,7 @@ Ask me about many technologies, such as .net Core, C#, Xamarin, Javascript, Type
 </li>
 
 <li>
-<g-emoji class="g-emoji" alias="zap" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/26a1.png">⚡</g-emoji>  Always keen on <strong><g-emoji class="g-emoji" alias="meat_on_bone" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f356.png">🍖</g-emoji> Churrasco, <g-emoji class="g-emoji" alias="cheese" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f9c0.png">🧀</g-emoji> Pão de Queijo, <g-emoji class="g-emoji" alias="video_game" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f3ae.png">🎮</g-emoji> XBOX ONE, <g-emoji class="g-emoji" alias="popcorn" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f37f.png">🍿</g-emoji> Movies and Series
+<g-emoji class="g-emoji" alias="zap" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/26a1.png">⚡</g-emoji>  Always keen on <strong><g-emoji class="g-emoji" alias="meat_on_bone" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f356.png">🍖</g-emoji> Churrasco, <g-emoji class="g-emoji" alias="cheese" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f9c0.png">🧀</g-emoji> Pão de Queijo, <g-emoji class="g-emoji" alias="video_game" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f3ae.png">🎮</g-emoji> Xbox One, <g-emoji class="g-emoji" alias="popcorn" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f37f.png">🍿</g-emoji> Movies and Series
 </li>
 
 ###
