@@ -7,7 +7,7 @@
 ### About me
 
 <li><g-emoji class="g-emoji" alias="computer" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bb.png">💻</g-emoji>
-I'm Developer and Computer scientist from Belo Horizonte - Brazil
+I'm Developer and Computer scientist from Alfenas - Brazil
 </li>
 
 <li><g-emoji class="g-emoji" alias="speech_balloon" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ac.png">💬</g-emoji>
