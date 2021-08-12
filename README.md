@@ -24,4 +24,4 @@ Ask me about many technologies, such as .net Core, C#, Xamarin, Javascript, Type
 
 ###
 
-[![Samuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=samuelsoares27)](https://github.com/samuelsoares27/samuelsoares27)
+[![Samuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=samuelsoares27&show_icons=true)](https://github.com/samuelsoares27/samuelsoares27)
