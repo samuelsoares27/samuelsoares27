@@ -25,4 +25,4 @@ Ask me about many technologies, such as .net Core, C#, Xamarin, Javascript, Type
 ###
 
 [![Samuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=samuelsoares27&show_icons=true)](https://github.com/samuelsoares27/samuelsoares27)
-  ![Snake animation](https://github.com/CamilaFSilva10/CamilaFSilva/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/samuelsoares27/samuelsoares27/blob/output/github-contribution-grid-snake.svg)
