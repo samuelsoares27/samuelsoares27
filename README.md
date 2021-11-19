@@ -11,7 +11,7 @@ I'm Developer and Computer scientist from Alfenas - Brazil
 </li>
 
 <li><g-emoji class="g-emoji" alias="speech_balloon" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ac.png">💬</g-emoji>
-Ask me about many technologies, such as .net Core, C#, Xamarin, Javascript, Typescript, Angular, VueJs, Bootstrap, Git and more.
+Ask me about many technologies, such as .net Core, APIS, C#, Typescript, React, Sql Server, Git and more.
 </li>
 
 <li>
