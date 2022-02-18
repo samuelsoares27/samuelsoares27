@@ -15,7 +15,7 @@ Ask me about many technologies, such as .net Core, APIS, C#, Typescript, React, 
 </li>
 
 <li>
-<g-emoji class="g-emoji" alias="mailbox" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4eb.png">📫</g-emoji>  How to reach me <strong><a href="mailto:samuel_soares27@hotmail.com">samuel_soares27@hotmail.com</a></strong>.
+<g-emoji class="g-emoji" alias="mailbox" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4eb.png">📫</g-emoji>  How to reach me <strong><a href="mailto:samuel_soares27@hotmail.com">samuel_soares27@hotmail.com</a></strong>. <strong><a href="https://samuesoarescv.w3spaces.com">samuel_soares27@hotmail.com</a></strong>
 </li>
 
 <li>
